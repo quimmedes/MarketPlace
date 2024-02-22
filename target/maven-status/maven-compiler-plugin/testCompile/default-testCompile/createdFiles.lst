@@ -1,0 +1,4 @@
+com\api\marketplace\service\InMemoryProductServiceTest.class
+com\api\marketplace\service\InMemoryStoreServiceTest.class
+com\api\marketplace\controller\ProductControllerTest.class
+com\api\marketplace\controller\StoreControllerTest.class

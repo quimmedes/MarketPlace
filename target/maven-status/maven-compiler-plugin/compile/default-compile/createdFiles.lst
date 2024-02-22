@@ -1,0 +1,14 @@
+com\api\marketplace\controller\ProductController.class
+com\api\marketplace\repository\ProductRepository.class
+com\api\marketplace\service\impl\InMemoryStoreService.class
+com\api\marketplace\controller\StoreController.class
+com\api\marketplace\controller\exception\ResourceNotFoundException.class
+com\api\marketplace\dto\ProductDto.class
+com\api\marketplace\model\Product.class
+com\api\marketplace\service\StoreService.class
+com\api\marketplace\service\ProductService.class
+com\api\marketplace\model\Store.class
+com\api\marketplace\dto\StoreDto.class
+com\api\marketplace\repository\StoreRepository.class
+com\api\marketplace\MarketplaceApplication.class
+com\api\marketplace\service\impl\InMemoryProductService.class

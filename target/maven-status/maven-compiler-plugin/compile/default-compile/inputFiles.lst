@@ -1,0 +1,14 @@
+F:\Users\kimede\Desafio\CodeScreen_errqztnp\src\main\java\com\api\marketplace\model\Store.java
+F:\Users\kimede\Desafio\CodeScreen_errqztnp\src\main\java\com\api\marketplace\controller\ProductController.java
+F:\Users\kimede\Desafio\CodeScreen_errqztnp\src\main\java\com\api\marketplace\service\impl\InMemoryProductService.java
+F:\Users\kimede\Desafio\CodeScreen_errqztnp\src\main\java\com\api\marketplace\controller\StoreController.java
+F:\Users\kimede\Desafio\CodeScreen_errqztnp\src\main\java\com\api\marketplace\model\Product.java
+F:\Users\kimede\Desafio\CodeScreen_errqztnp\src\main\java\com\api\marketplace\controller\exception\ResourceNotFoundException.java
+F:\Users\kimede\Desafio\CodeScreen_errqztnp\src\main\java\com\api\marketplace\service\ProductService.java
+F:\Users\kimede\Desafio\CodeScreen_errqztnp\src\main\java\com\api\marketplace\service\StoreService.java
+F:\Users\kimede\Desafio\CodeScreen_errqztnp\src\main\java\com\api\marketplace\dto\StoreDto.java
+F:\Users\kimede\Desafio\CodeScreen_errqztnp\src\main\java\com\api\marketplace\repository\ProductRepository.java
+F:\Users\kimede\Desafio\CodeScreen_errqztnp\src\main\java\com\api\marketplace\MarketplaceApplication.java
+F:\Users\kimede\Desafio\CodeScreen_errqztnp\src\main\java\com\api\marketplace\service\impl\InMemoryStoreService.java
+F:\Users\kimede\Desafio\CodeScreen_errqztnp\src\main\java\com\api\marketplace\dto\ProductDto.java
+F:\Users\kimede\Desafio\CodeScreen_errqztnp\src\main\java\com\api\marketplace\repository\StoreRepository.java
